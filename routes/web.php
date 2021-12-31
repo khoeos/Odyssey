@@ -17,3 +17,4 @@ use Inertia\Inertia;
 */
 
 Route::get('/', [CrewController::class, 'index']);
+Route::resource('crew', CrewController::class);
