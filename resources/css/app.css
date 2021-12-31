@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@400;700;900&family=Forum&display=swap');
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+* {
+    font-family: 'Forum', cursive;
+}
+
+h1, h2 {
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight: 800;
+}
