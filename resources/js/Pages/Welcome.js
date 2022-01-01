@@ -19,7 +19,7 @@ export default function Welcome(props) {
                 <p>
                     Réalisé par Léo Jeanjean en l'an 2021 après JC sur missive expresse de Jason
                 </p>
-                <a href="">Code source - Github</a>
+                <a href="https://github.com/khoeos/Odyssey">Code source - Github</a>
             </footer>
         </div>
     );
